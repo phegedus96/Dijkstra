@@ -1,0 +1,3 @@
+C:/Users/Peti/CLionProjects/felszem4.3/cmake-build-debug/CMakeFiles/felszem4_3.dir
+C:/Users/Peti/CLionProjects/felszem4.3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Peti/CLionProjects/felszem4.3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
